@@ -4,7 +4,9 @@
   ### {JavaScript, HTML, CSS}  |  [Valorant Scout](https://github.com/RedNinja17/valorant-scout)
   ### {Astro}  |  [honkgames.xyz](https://github.com/HONKgames/honkgamesweb)
   ### [![template test](template.png)](Google.com)
-  ### [![template test 2]('template.drawio (1).png)'](https://Google.com)
+  ### [![template test 2](TemplateTest.drawio.png)](https://Google.com)
+  <img src="TemplateTest.drawio.png" width="300" />
+  # look into svg animations please
 ## [LEARNING]:
   -...
 ## [PROJECTS]:
